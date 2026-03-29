@@ -1,5 +1,5 @@
 # PokéLLM
-An LLM agent equipped with web-scraping and retrieval augmented gneration (RAG) tools to answer technical questions about the main series Pokémon video games.
+An LLM agent equipped with web-scraping and retrieval augmented gneration (RAG) tools to answer technical questions about the main series Pokémon video games. The agent requires an OpenAI API key to utilise LLM functionality via *LangChain*.
 
 ## Functionality
 * Answer general questions about a specified Pokémon such as their Pokédex entries, height, weight, evolutions, base stats, and learnset.
